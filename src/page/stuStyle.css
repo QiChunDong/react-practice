@@ -1,0 +1,10 @@
+.line {
+    line-height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn {
+    height: 26px;
+    line-height: 26px;
+}
